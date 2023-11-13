@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamarman13&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamarman13" /> </p> <p align="left"> <a href="https://twitter.com/shubhamarman13" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamarman13?logo=twitter&style=for-the-badge" alt="shubhamarman13" /></a> </p> 
 <h3>- 🌱 I’m currently learning C, C++, Python, HTML, CSS, JavaScript, Bootstrap, Java** - 💬 Ask me about **C,C++,Python,HTML,CSS,BOOTSTRAP- </h3> <br>
-<h3>📫 How to reach me **shubhamamran13@gmail.com </h3>
+<h3>📫 How to reach me:- shubhamamran13@gmail.com </h3>
 
 - 📝 I regularly write articles on [https://theupcomingprogrammer.com/](https://theupcomingprogrammer.com/)
 
